@@ -1,0 +1,12 @@
+parameters:
+    workflow_logger.subscriber.logger.class: WorkflowLoggerBundle\EventSubscriber\WorkflowLoggerSubscriber
+
+services:
+# Subscribers
+    workflow_logger.subscriber.logger:
+        class: '%workflow_logger.subscriber.logger.class%'
+        arguments:
+            - '@doctrine.orm.default_entity_manager'
+            -
+        tags:
+            - { name: kernel.event_subscriber }
