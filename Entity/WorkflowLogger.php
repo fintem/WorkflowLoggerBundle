@@ -1,6 +1,6 @@
 <?php
 
-namespace WorkflowLoggerBundle\Entity;
+namespace Fintem\WorkflowLoggerBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use Gedmo\Timestampable\Traits\TimestampableEntity;

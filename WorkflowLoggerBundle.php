@@ -1,6 +1,6 @@
 <?php
 
-namespace WorkflowLoggerBundle;
+namespace Fintem\WorkflowLoggerBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

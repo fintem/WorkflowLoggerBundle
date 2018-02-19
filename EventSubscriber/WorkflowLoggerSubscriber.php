@@ -1,6 +1,6 @@
 <?php
 
-namespace WorkflowLoggerBundle\EventSubscriber;
+namespace Fintem\WorkflowLoggerBundle\EventSubscriber;
 
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;

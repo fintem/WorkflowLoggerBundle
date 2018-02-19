@@ -1,6 +1,6 @@
 <?php
 
-namespace WorkflowLoggerBundle\DependencyInjection;
+namespace Fintem\WorkflowLoggerBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

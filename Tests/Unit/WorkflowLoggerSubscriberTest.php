@@ -1,6 +1,6 @@
 <?php
 
-namespace WorkflowLoggerBundle\Tests\Unit;
+namespace Fintem\WorkflowLoggerBundle\Tests\Unit;
 
 use Skycop\Libraries\Testing\PHPUnit\UnitTestCase;
 use Symfony\Component\Workflow\Event\Event;

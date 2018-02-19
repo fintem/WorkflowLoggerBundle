@@ -1,5 +1,5 @@
 parameters:
-    workflow_logger.subscriber.logger.class: WorkflowLoggerBundle\EventSubscriber\WorkflowLoggerSubscriber
+    workflow_logger.subscriber.logger.class: Fintem\WorkflowLoggerBundle\EventSubscriber\WorkflowLoggerSubscriber
 
 services:
 # Subscribers
