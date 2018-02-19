@@ -1,7 +1,7 @@
 {
   "name": "fintem/workflow-logger-bundle",
   "description": "Allows to log symfony workflow in your application",
-  "keywords": ["workflow", "log", "flags"],
+  "keywords": ["workflow", "log"],
   "homepage": "http://www.fintem.lt",
   "type": "symfony-bundle",
   "license": "MIT",
