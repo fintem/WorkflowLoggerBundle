@@ -62,7 +62,6 @@ workflow_logger:
         - 'wfl-3'
 ```
 
-
 If you want to stop logging any workflow, set logging property to false. Its property true by default.
 ```
 workflow_logger:
