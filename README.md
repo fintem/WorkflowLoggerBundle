@@ -54,7 +54,7 @@ How to use
 
 When you install workflow logger bundle, you can use this bundle straight away, all workflow is recorded to workflow_logger table (WorkflowLogger entity).
 
-If you want to log particular workflow in your application you should note it explicitly. For example if you have got three workflows in your application (wfl-1, wfl-2, wfl3) and you want to log only wfl-1 and wfl-3. You should add additional line of code to your config.yml file.  
+If you want to log particular workflow in your application you should note it explicitly. For example if you have got three workflows in your application (wfl-1, wfl-2, wfl3) and you want to log only wfl-1 and wfl-3. You should add additional lines of code to your config.yml file.  
 ```
 workflow_logger:
     workflows:
